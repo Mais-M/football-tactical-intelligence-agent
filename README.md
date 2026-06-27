@@ -114,6 +114,7 @@ Future versions may include:
 
 ## Disclaimer
 
+
 This is an educational and analytical prototype.
 It does not claim to know the private thoughts of any coach.
 All interpretations should be treated as cautious tactical analysis based on available information.
