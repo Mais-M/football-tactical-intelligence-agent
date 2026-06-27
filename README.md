@@ -1,7 +1,6 @@
 # Football Tactical Intelligence Agent
 
-A prototype AI agent for football tactical intelligence, focused on real-time coaching decisions, tactical discipline, substitutions, formation changes, and responsible AI design.
-
+A custom AI agent prototype for football tactical intelligence, focused on real-time coaching decisions, tactical discipline, and Responsible AI.
 The main case study is **Hajime Moriyasu**, head coach of Japan’s national football team.
 
 ## Project Overview
