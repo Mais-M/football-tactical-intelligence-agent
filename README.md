@@ -107,7 +107,7 @@ Future versions may include:
 
 ## Visual Preview
 
-A visual dashboard will be added here later.
+![Project visual](project-visual.png)
 
 ```text
 /assets/project-visual.png
